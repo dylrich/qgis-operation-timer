@@ -1,0 +1,10 @@
+[general]
+name=OperationTimer
+email=dylanjackrichardson@gmail.com
+author=Dylan Richardson
+qgisMinimumVersion=2.0
+description= A short and sweet plugin to time your operations.
+about= A short and sweet plugin to time your operations. Will produce a message with time in seconds.
+version=version 1.0
+tracker=http://github.com/dylrich
+repository=http://github.com/dylrich
